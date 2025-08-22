@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I', Bokz!
 
 <!--
 **lotumtrajera555/lotumtrajera555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning studying Information Technology at MATS College of Technology
+- 📫 How to reach me: https://www.facebook.com/bokz.trajera.5
+- 😄 Pronouns: He/Him
